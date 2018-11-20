@@ -148,7 +148,7 @@
     }
 
 /* Display for Mobile devices */
-@media only all and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 
   h2 {
     font-size: 35px;
