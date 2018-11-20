@@ -85,7 +85,7 @@ a {
     }
 
 /* Display for Mobile devices */
-@media only all and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 
     .index-subtitle {
       font-size: 20px;
